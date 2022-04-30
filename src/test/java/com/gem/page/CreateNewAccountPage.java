@@ -111,6 +111,7 @@ public class CreateNewAccountPage {
 
     public void clickOnStateDropdown(){
         stateDropdown.sendKeys("NY");
+
     }
 
     public void selectState(){
