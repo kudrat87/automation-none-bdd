@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="gemini-nifty-gateway" />
         <module name="test-project" />
+        <module name="automation-none-bdd" />
         <module name="test-automation-none-bdd" />
       </profile>
     </annotationProcessing>
