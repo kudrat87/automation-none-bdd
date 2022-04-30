@@ -110,7 +110,7 @@ public class CreateNewAccountPage {
     }
 
     public void clickOnStateDropdown(){
-        stateDropdown.click();
+        stateDropdown.sendKeys("NY");
     }
 
     public void selectState(){
